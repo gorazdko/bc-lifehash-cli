@@ -14,7 +14,7 @@ srcdir = .
 
 
 COMPILER = g++
-LDLIBS += -lz -lpng -llifehash -lstdc++ -lm
+LDLIBS +=  -lpng -llifehash -lz -lstdc++ -lm
 
 toolname = lifehash
 
